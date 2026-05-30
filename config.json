@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartealidate",
+        "uuid": 4520880,
+        "checksum": "m42v2j"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
